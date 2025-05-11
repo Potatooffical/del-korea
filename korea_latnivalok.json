@@ -1,0 +1,57 @@
+[
+    {
+        "nev": "Gyeongbokgung-palota",
+        "helyszin": "Szöul",
+        "rovid": "A Joseon-dinasztia fő palotája, híres a királyi őrségváltásról és a gyönyörű udvarairól. Hanbokban a belépés ingyenes.",
+        "reszletes": "🏛️ Történelmi háttér: Épült: 1395-ben, a Joseon-dinasztia első királya, Taejo építtette. A Joseon-dinasztia fő királyi palotája volt évszázadokon át a király és az udvara székhelye. Több pusztítás érte: leégett a 16. századi Imdzsin-háborúban, majd japán megszállás alatt is súlyosan megrongálódott.A 20. századtól folyamatos rekonstrukciók zajlanak, sok épületet visszaállítottak eredeti formájában. A palota területe: 410,000 m², több mint 500 épület található itt. A legfontosabb épületek közé tartozik a Geunjeongjeon (a trónterem), a Gyeonghoeru (a tóra néző pavilon) és a Hyangwonjeong (a kis sziget). A palota körül gyönyörű kertek és tavak találhatók, amelyek a látogatók számára pihenési lehetőséget nyújtanak. A palota területén található a Nemzeti Palotamúzeum is, amely bemutatja a Joseon-dinasztia történelmét és kultúráját. "
+    },
+    {
+        "nev": "Jeju-sziget",
+        "helyszin": "Jeju",
+        "rovid": "Dél-Korea legnagyobb szigete, a Hallasan vulkánnal, UNESCO világörökséggel és híres búvárasszonyokkal (haenyeo).",
+        "reszletes": "🏝️ Természeti szépségek: A sziget vulkanikus eredetű, a Hallasan a legmagasabb hegy Dél-Koreában (1950 m). A sziget híres gyönyörű strandjairól, vízeséseiről és különleges természeti képződményeiről. A Jeju-sziget gazdag növény- és állatvilággal rendelkezik, több mint 2000 növényfaj és 400 állatfaj él itt. A sziget híres a hagyományos búvárasszonyairól (haenyeo), akik búvárkodással halásznak. A Jeju-sziget kulturális öröksége is jelentős, több hagyományos falu és templom található itt."
+    },
+    {
+        "nev": "DMZ – Demilitarizált övezet",
+        "helyszin": "Határ Észak-Koreával",
+        "rovid": "Történelmi feszültség központja, láthatóak alagutak, őrtornyok, és a Panmunjeom tárgyalószoba a híres kék barakkokkal.",
+        "reszletes": "🏞️ Történelmi jelentőség: A DMZ a két Korea közötti határvonal, amely 1953 óta létezik. A terület szigorúan védett, és a látogatók számára különböző túrák állnak rendelkezésre. A DMZ területén található a Joint Security Area (JSA), ahol a két Korea közötti tárgyalások zajlanak. A látogatók megtekinthetik a híres kék barakkokat, ahol a tárgyalások folytak, valamint az alagutakat és őrtornyokat is."
+    },
+    {
+        "nev": "Bukchon Hanok Falu",
+        "helyszin": "Szöul",
+        "rovid": "A hagyományos hanok házak megőrzött területe, ahol a látogatók felfedezhetik a régi koreai kultúrát.",
+        "reszletes": "🏘️ Hagyományos építészet: A Bukchon Hanok Falu Szöul szívében található, és több mint 600 hagyományos hanok ház található itt. A látogatók felfedezhetik a régi koreai kultúrát, a hagyományos építészeti stílust és a helyi művészetet. A falu körüli utcák keskenyek és kanyargósak, ami különleges hangulatot ad a helynek. A látogatók részt vehetnek hagyományos teázásokon, kézműves foglalkozásokon és kulturális programokon is."
+    },
+    {
+        "nev": "Namsan-torony (N Seoul Tower)",
+        "helyszin": "Szöul",
+        "rovid": "Szöul ikonikus tornya, gyönyörű kilátással a városra. A szerelmi lakatok hagyománya népszerű.",
+        "reszletes": "🏙️ Kilátás és romantika: A Namsan-torony Szöul központjában található, és 236 méter magas. A torony tetejéről gyönyörű kilátás nyílik a városra és a környező hegyekre. A látogatók felmehetnek a kilátóba, ahol panorámás kilátásban gyönyörködhetnek. A torony körül található parkban sok látogató hagyományos lakatokat helyez el, amelyek a szerelem szimbólumai."
+    },
+    {
+        "nev": "Changdeokgung-palota",
+        "helyszin": "Szöul",
+        "rovid": "A Joseon-dinasztia második legfontosabb palotája, híres a gyönyörű kerteiről és építészetéről.",
+        "reszletes": "🏰 Történelmi palota: A Changdeokgung-palota a Joseon-dinasztia második legfontosabb palotája, amely 1405-ben épült. A palota híres a gyönyörű kerteiről, amelyek a természethez való harmonikus kapcsolatra épülnek. A palota területén található a Secret Garden (Titkos Kert), amely egy gyönyörű, természetes tájjal rendelkező kert, ahol a királyi család pihent és szórakozott. A palota építészete is figyelemre méltó, a hagyományos koreai stílusban készült."
+    },
+    {
+        "nev": "Gyeongju – Koreai Pompeii",
+        "helyszin": "Gyeongju",
+        "rovid": "A Silla-dinasztia fővárosa, gazdag történelemmel és számos templommal, sírhelyekkel és múzeummal.",
+        "reszletes": " 🏺 Történelmi város: Gyeongju a Silla-dinasztia fővárosa volt, és gazdag történelemmel rendelkezik. A városban számos templom, sírhely és múzeum található, amelyek bemutatják a Silla-dinasztia kultúráját és történelmét. A Bulguksa templom és a Seokguram Grotto UNESCO világörökségi helyszínek, amelyek híresek a gyönyörű építészetükről és szobrászati munkáikról. A város körüli dombokban találhatóak a Silla-dinasztia királyainak sírhelyei, amelyek különleges látványt nyújtanak."
+    },
+    {
+        "nev": "Busan Haeundae strand",
+        "helyszin": "Busan",
+        "rovid": "Dél-Korea legnépszerűbb strandja, gyönyörű homokos parttal és számos szórakozási lehetőséggel.",
+        "reszletes": "🏖️ Tengerparti élmények: A Haeundae strand Busan legnépszerűbb strandja, amely gyönyörű homokos parttal és tiszta vízzel rendelkezik. A strand körül számos étterem, kávézó és bolt található, ahol a látogatók élvezhetik a helyi ételeket és italokat. A strand népszerű a vízi sportok kedvelői körében is, például a búvárkodás, szörfözés és jet ski. A strand mellett található a Dongbaek Park, ahol gyönyörű kilátás nyílik a tengerre és a városra."
+    },
+    {
+        "nev": "Incheon Nemzetközi Repülőtér",
+        "helyszin": "Incheon",
+        "rovid": "A világ egyik legjobb repülőtere, modern létesítményekkel és számos szolgáltatással.",
+        "reszletes": "✈️ Modern létesítmények: Az Incheon Nemzetközi Repülőtér Dél-Korea legnagyobb repülőtere, amely modern létesítményekkel és számos szolgáltatással rendelkezik. A repülőtér híres a tisztaságáról és a hatékony működéséről. A látogatók élvezhetik a különböző éttermeket, boltokat és szórakozási lehetőségeket, például mozikat és művészeti kiállításokat. A repülőtér közelében található a Songdo International Business District, amely egy modern üzleti központ."
+    }
+   
+]

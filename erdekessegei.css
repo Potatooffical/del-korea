@@ -1,0 +1,65 @@
+body {
+    background-image: url(..háttér.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black; 
+    margin: 0;
+    font-family: Arial, sans-serif; 
+}
+footer{
+    background-color: #3f1e2c;
+    color: white;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    padding: 2%;;
+    bottom: 0;
+    width: 70%;
+    opacity: 0.8;
+    border-radius: 20px;
+}
+nav {
+    width: 70%;
+    margin: 2% auto 0 auto; 
+    background-color: #bddbf2;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    opacity: 0.8;
+}
+.h1{
+    text-align: center;
+    color: white;
+    margin: 2% auto;
+    padding: 2%;
+    background-color: #3f1e2c;
+    width: 60%;
+    border-radius: 20px;
+}
+.Fooldal {
+    font-size: 30px;
+    color: white;
+    margin: 2% 15% 12% 15%; 
+    padding: 5% 10%; 
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+    background-image: url(..hatter.jpeg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* opacity kivetem mert nem az igazi */
+}
+
+ 
+#hatar{
+  background-color: #bddbf2;
+  color: black;
+  opacity: 0.8;
+  
+  margin-right: 0.9%;
+  margin-left: 5%;
+  margin-top: 0.3%;
+  border-radius: 10px;
+    text-align: center;
+  margin-bottom: 0.3%;
+}

@@ -1,0 +1,51 @@
+body {
+    background-image: url(..háttér.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black; 
+    margin: 0;
+    font-family: Arial, sans-serif; 
+}
+footer{
+    background-color: #3f1e2c;
+    color: white;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    padding: 2%;;
+    bottom: 0;
+    width: 70%;
+    opacity: 0.8;
+    border-radius: 20px;
+}
+nav {
+    width: 70%;
+    margin: 2% auto 0 auto; 
+    background-color: #bddbf2;
+    color: black;
+    padding: 10px;
+    border-radius: 20px;
+    opacity: 0.8;
+}
+.lap{
+    background-color: #bddbf2;
+    color: white;
+    opacity: 0.8;
+    margin: 2% 15% 12% 15%; 
+    padding: 5% 10%;
+    border-radius: 10px;
+     
+}
+h1{
+    text-align: center;
+    color: #3f1e2c;
+    font-size: 2.5em;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+#grid {
+   background-color: #adb7bf;
+   border-radius: 10px;
+   padding-top: 15px;
+}
