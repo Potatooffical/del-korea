@@ -24,7 +24,7 @@ function createCard(manga, rowContainer) {
         <div class="card-body d-flex flex-column">
             <h5 class="card-title">${manga.title}</h5>
             <p class="card-text">${manga.summary.substring(0, 100)}...</p>
-            <a href="#" class="btn btn-primary mt-auto">Read More</a>
+            <a href="${manga.summary}" class="btn btn-primary mt-auto">Read More</a>
         </div>
     `;
 
